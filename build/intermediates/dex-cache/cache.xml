@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\konst_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-717bc636af806c87b988662170a229cb21369b1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\classes-29b46b98d3e13bf8ce2fced352e952727ee3008f.jar" />
+    </item>
+    <item
+        jar="C:\Users\konst_000\Documents\H1kemaps\app\libs\libngnative.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="405f2a5cda7b350574d39b1ada326714493821dc">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\libngnative-252380fb4cd71dc4b75c09209e08eaff88fd4ffa.jar" />
+    </item>
+    <item
+        jar="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-479692364d29dadabd4c95c8ac47d2b2ffabaffc.jar" />
+    </item>
+    <item
+        jar="C:\Users\konst_000\Documents\H1kemaps\app\libs\SKMaps-docs.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a94d4e3e9c1434662e8441428a5ae5995fc9d002">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\SKMaps-docs-5b3a8f995ee3615ef866efaec1c1488285c6c991.jar" />
+    </item>
+    <item
+        jar="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\classes-0f736a3d78adf8fefd08978fae379377d5e22de0.jar" />
+    </item>
+    <item
+        jar="C:\Users\konst_000\Documents\H1kemaps\app\libs\SKMaps.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="28ea59b2aed652bcf501cf470ff54dc1d12fca73">
+        <dex dex="C:\Users\konst_000\Documents\H1kemaps\app\build\intermediates\pre-dexed\release\SKMaps-1a6299db24b73f04f6515fa048ce6bb902e49337.jar" />
+    </item>
+
+</items>

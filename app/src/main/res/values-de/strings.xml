@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">H1keMaps</string>
+    <string name="action_about">Über H1keMaps</string>
+    <string name="drawer_close">Drawer geschlossen</string>
+    <string name="drawer_open">Drawer offen</string>
+    <string name="hello_world">Hallo Welt</string>
+    <string name="label_download">Karte herunterladen</string>
+    <string name="label_parsing_xml">Verarbeite XML</string>
+    <string name="show_heat_map">Zeige Heat Map</string>
+    <string name="welcomeString">Lade H1keMaps</string>
+    <string name="label_dest_reached">Sie haben Ihr Ziel erreicht !</string>
+    <string name="foot_navigation">Navigation als Fußgänger</string>
+    <string name="start_navigation_label">Wollen sie die Navigation zum "gepinnten" Standort starten ?</string>
+    <string name="unable_to_find_location">Entschuldigung, ich konnte leider noch keinen Standort finden.</string>
+    <string name="only_online_downloads">Karten Downloads sind nur im onlinemodus möglich !</string>
+    <string name="app_offline">H1keMaps läuft jetzt im offline modus !</string>
+    <string name="app_online">H1keMaps läuft jetzt im online modus !</string>
+    <string name="pin_dest_for_nav">Bitte "pinnen" sie erst ein Ziel !</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Wo bin ich ?</item>
+        <item>Offline Karten Herunterladen</item>
+        <item>Off- / Online Karten</item>
+        <item>Starte / Beende Navigation zu Pin...</item>
+        <item>Kartenstil ändern</item>
+        <item>Lösche Pins</item>
+        <item>Kompass An/Aus</item>
+        <item>Richtungsindikator An / Aus</item>
+        <item>Wachbleiben des Bildschirms An / Aus</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Order must be as the Titles are in ! -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_location_found</item>
+        <item>@drawable/ic_action_download</item>
+        <item>@drawable/ic_action_network_cell</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_map</item>
+        <item>@drawable/ic_action_remove</item>
+        <item>@drawable/ic_compass</item>
+        <item>@drawable/ic_action_web_site</item>
+        <item>@drawable/ic_brightness_medium_white_24dp</item>
+    </array>
+    <string name="aboutString">Diese Applikation wurde von Konstantin Hamm im Rahmen einer
+        Bachelorarbeit an der Fachhochschule Südwestfalen in Iserlohn geschrieben. Einige Code
+        Fragmente wurden von den Support Seiten der Telenav GmbH übernommen. Bei interesse finden
+        sie hier mehr Informationen: http://www.skobbler.de/apps . Die übernommenen stellen sind
+        im Quellcode kenntlich gemacht. \n\n  Der Erstprüfer dieser Bachelorarbeit ist
+        Prof. Dr. Walter Roth sowie Dipl.-Inf. Uwe Gogolin als  Zweitprüfer. Beide Prüfer sind
+        teil des Informatik Fachbereiches an der Fachhochschule Südwestfalen  in Iserlohn.\n\n
+        <b>Wie benutzt man die H1keMaps app ?</b>\n\n
+        Mit einem Wisch vom linken Kartenrand zur mitte des Displays erscheint ein Navigationsmenü.
+        Mit diesem Navigationsmenü kann man die App steuern.\n\n  <b>Wo bin ich ?</b>\n\n Dieser Button
+        wird ihnen zeigen, wo Sie sind.\n\n  <b>Offline Karten Herunterladen</b>\n\n Dieser Button
+        öffnet ein Fenster indem sie Kartendaten herunterladen können um diese später dann offline
+        zu verwenden.\n\n   <b>Off- / Online Karten</b>\n\n Dieser Butten Startet den offline oder
+        online Modus der App.\n\n  <b>Starte / Beende Navigation zu Pin...</b>\n\n Um die Navigation
+        Starten zu können müssen Sie zunächst einen Ort "pinnen". Dieses pinnen geschieht, indem
+        Sie auf der Karte auf einen Ort "klicken" und halten. Wenn ein Pin gesetzt wurde können sie
+        mit dem Starte / Beende Navigation zu... Button die Navigation als Fußgänger starten.\n\n
+        <b>Kartenstil ändern</b>\n\n Mit diesem Button ändern Sie den Kartenstil.\n\n
+        <b>Lösche Pins</b>\n\n Es werden alle Pins gelöscht.\n\n   <b>Kompass An/Aus</b>\n\n
+        Dieser Button schaltet den Kompass an oder aus.\n\n   <b>Richtungsindikator An / Aus</b>\n\n
+        Unabhängig vom Kompass können Sie mit diesem Button den Richtungsindikator an oder
+        aus schalten.\n\n</string>
+    <string name="abort_navigation">Die Navigation wird beendet</string>
+    <string name="download_success">Erfolg !</string>
+    <string name="download_in_background">Der Download der gewünschten Karte ist gestartet. Bitte schließen Sie die Applikation nicht bis Sie eine Statusmeldung erhalten. </string>
+    <string name="success_text">Kartendaten erfolgreich heruntergeladen.</string>
+    <string name="high_energy_consumption">Achtung! Der Bildschirm bleibt jetzt an. Es wird ab jetzt deutlich mehr Akku verbraucht !</string>
+    <string name="screen_toggle_off">Der Bildschirm wird sich ab jetzt normal verhalten und sich nach ein paar Sekunden ohne Interaktion wieder abschalten.</string>
+</resources>

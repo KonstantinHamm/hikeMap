@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="action_about">About H1keMaps</string>
+    <string name="welcomeString">Loading H1keMaps...</string>
+    <string name="label_download">Download</string>
+    <string name="label_parsing_xml">Parsing XML</string>
+
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Find Me !</item>
+        <item>Download Offline Maps</item>
+        <item>Toggle Maps On/Offline</item>
+        <item>Start / Stop Navigation to Pin</item>
+        <item>Change Mapstyle</item>
+        <item>Clear Pins</item>
+        <item>Toggle Compass On/Off</item>
+        <item>Toggle Heading</item>
+        <item>Keep Screenlight On / Off</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Order must be as the Titles are in ! -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_location_found</item>
+        <item>@drawable/ic_action_download</item>
+        <item>@drawable/ic_action_network_cell</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_map</item>
+        <item>@drawable/ic_action_remove</item>
+        <item>@drawable/ic_compass</item>
+        <item>@drawable/ic_action_web_site</item>
+        <item>@drawable/ic_brightness_medium_white_24dp</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon" translatable="false">Item Icon</string>
+    <string name="label_dest_reached">Destination Reached !</string>
+    <string name="foot_navigation">Navigate as Pedestrian</string>
+    <string name="start_navigation_label">Do you want to start Navigation to the "Pinned" location ?</string>
+    <string name="unable_to_find_location">Sorry, i could not find a Location yet.</string>
+    <string name="only_online_downloads">Map Downloads are only availible in Online mode !</string>
+    <string name="app_offline">H1keMaps runs now in Offline mode !</string>
+    <string name="app_online">H1keMaps runs now in Online mode !</string>
+    <string name="pin_dest_for_nav">Please pin a Destination first !</string>
+
+    <string name="title_activity_about" translatable="false">AboutActivity</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="aboutString">This Application is written by Konstantin Hamm with some code passages from the Skobbler Maps Team(Telnav GmbH, Berlin, Germany).
+If you are interested in the Skobbler Maps SDK please visit http://www.skobbler.de/apps.
+
+H1keMaps was written in the context of a Bachelors Thesis for Prof. Dr. Walter Roth
+and Dipl.-Inf Uwe Gogolin as second examiner. Both reviewers are a part of the computer science
+department of the University of Applied Sciences in Iserlohn, Germany. \n\n\n
+
+<b>How to use H1keMaps ?</b>\n\n
+
+If you slide your finger from the left edge of the map to the middle a navigation
+drawer will appear. From here on out you can navigate through the H1keMaps app.\n\n
+
+<b>Find Me !</b>\n\n
+This button will show you where you are. \n\n
+
+<b>Download Offline Maps</b>\n\n
+This button will open a new window where you can download map data to use them
+if you are hiking do not have a reliable data connection.
+Caution! Only works in online mode !\n\n
+
+<b>Toggle Maps On/Offline</b>\n\n
+This button toggles the online or offline mode. \n\n
+
+<b>Start / Stop Navigation to Pin</b>\n\n
+To navigate to a location you first have to "pin" it. That means press and hold that location for
+a short while until a pin appears on the map. Then you have to press the navigation button. After
+that the app will start to navigate to the location of the <b>last( ! )</b> added pin.\n\n
+
+<b>Change Mapstyle</b>\n\n
+As the name suggests this button will change the map style.\n\n
+
+<b>Clear Pins</b>\n\n
+This buttons will delete all pins and hikeRoutes\n\n
+
+<b>Toggle Compass On/Off</b>\n\n
+This button will toggle the compass on or off.\n\n
+
+<b>Toggle Heading</b>\n\n
+With this button you can toggle the heading mode on or off - independent from the compass.\n\n
+</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="show_heat_map">show heat map</string>
+    <string name="hello_world">hello world</string>
+    <string name="abort_navigation">The Navigation will be aborted</string>
+    <string name="download_success">Success !</string>
+    <string name="download_in_background">Download has started. Please do not close the application</string>
+    <string name="app_name">H1keMaps</string>
+    <string name="success_text">Successfully downloaded map data !</string>
+    <string name="high_energy_consumption">Caution! The Screen stays now On. This will consume a lot of your battery power !</string>
+    <string name="screen_toggle_off">The Screen will now behave normal and turn off after a couple of seconds.</string>
+</resources>
